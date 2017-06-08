@@ -1,6 +1,6 @@
 # lbreaks
   
-Small command line tool for convert line breaks from UNIX format to DOS format or
+Small command line tool for convert line breaks from UNIX format (`\n`) to DOS format (`\r\n`) or
 from DOS format to UNIX format.  
 GitHub [https://github.com/labovich/lbreaks](https://github.com/labovich/lbreaks) 
 
